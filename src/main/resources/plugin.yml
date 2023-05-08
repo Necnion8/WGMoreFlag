@@ -1,0 +1,16 @@
+name: WGMoreFlag
+version: @version@
+main: com.gmail.necnionch.myplugin.wgmoreflag.bukkit.WGMoreFlag
+api-version: 1.13
+depend: [WorldGuard]
+authors: [Necnion8]
+
+description: |-
+  対応するWorldGuard: v7.1以降
+  また権限ノードでバイパスが可能です。(デフォルトでOPは許可)
+
+#permissions:
+#  worldguardmoreflag.bypass.exit-via-teleport-myself:
+#    default: op
+#  worldguardmoreflag.bypass.crafting:
+#    default: op
